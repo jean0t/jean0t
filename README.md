@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jean0t
 - 👀 I’m interested in coding softwares
-- 🌱 I’m currently learning bash and javascript
+- 🌱 I’m currently learning bash and java
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---

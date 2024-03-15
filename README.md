@@ -13,12 +13,13 @@ to improve the experience of people through well made softwares.
 - [Linkedin](https://www.linkedin.com/in/joao-mauricio-4a431a269/)
 
 
-![In code We trust_upscayl_4x_realesrgan-x4fast](https://github.com/jean0t/jean0t/assets/127698173/9576b2a2-321b-4141-9bfb-ea0af4e6bbfb)
+![jean0t's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jean0t&theme=vue-dark&hide_border=true)   ![jean0t's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 > Knowing is not enough, we must apply. Willing is not enough, we must do.
 > 
 > \- bruce lee
+
 
 <!---
 jean0t/jean0t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,7 @@
 ![gotham](https://github.com/jean0t/jean0t/assets/127698173/4b84d33d-aeeb-4f98-bcf0-932f43b85383)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=If+anything+is+worth+doing%2C+;do+it+with+all+your+heart.)](https://git.io/typing-svg)
+
 ```bash
 ┌[jean0t@git]-(/home/jean0t)
 └> whoami
@@ -20,6 +22,7 @@ to improve the experience of people through well made softwares.
 > 
 > \- bruce lee
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+the+miracle)](https://git.io/typing-svg)
 
 <!---
 jean0t/jean0t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@
 -> A lover of Math and Programming that wants to contribute
 to improve the experience of people through well made softwares.
  My expertise is backend development, polishing my skills everyday
-and aiming to learn new things in Cloud Computing.
+and aiming to learn new things like Cloud Computing and OS.
 ```
 
 ## Technologies I worked with

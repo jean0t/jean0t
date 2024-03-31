@@ -72,7 +72,6 @@ and aiming to learn new things like Cloud Computing and OS.
 | places to visit | link |
 | :---------: | :-----------: |
 | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [visit here](https://www.linkedin.com/in/joao-mauricio-4a431a269/) |
-| ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) | [visit here](https://twitter.com/JeanotInvictus) |
 | ![Certificates](https://shields.io/badge/certificates-blue?logo=linkedin&style=flat) | [click here](https://github.com/jean0t/jean0t/tree/main/certificates) |
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=If+anything+is+worth+doing%2C+;do+it+with+all+your+heart.)](https://git.io/typing-svg)

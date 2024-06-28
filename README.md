@@ -28,13 +28,44 @@
 
 # Hi there! 👋
 
-I'm Jean0t, a backend developer passionate about crafting robust solutions. Here's a bit about me:
+I'm Jean0t, a backend developer with a passion for building efficient and scalable applications. Here's a closer look at what I bring to the table:
 
-- 💻 **Expertise:** Python 🐍, Go 🚀, PHP 🛠️
+## About Me
+
+- 🌟 **Skills:** Python, Go, PHP
 - 🌐 **Frameworks:** Node.js (JavaScript), Django, Flask (Python), Laravel (PHP)
-- 🐧 **Daily OS:** Linux enthusiast
-- 🛠️ **Tools:** Git 🌲, Docker 🐳, Command-line aficionado
+- 🐧 **Daily OS:** Linux (Ubuntu, Fedora)
+- 🛠️ **Tools:** Git, Docker, Shell scripting
 
-Let's connect and collaborate on exciting projects!
+## What I Do
+
+I specialize in backend development, focusing on:
+
+- Designing APIs that drive seamless user experiences
+- Optimizing database performance for speed and reliability
+- Building scalable microservices architectures
+
+## My Toolbox
+
+### Languages & Frameworks:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Tools & Platforms:
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Let's Connect!
+
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- 🌐 Visit my personal website: [example.com](https://www.example.com)
+- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)
+
+Let's collaborate and create something amazing together!
 
 ---

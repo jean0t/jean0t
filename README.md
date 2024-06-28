@@ -62,9 +62,9 @@ I specialize in backend development, focusing on:
 
 ## Let's Connect!
 
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 🌐 Visit my personal website: [example.com](https://www.example.com)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/joao-maurici0-m/)
+- 🌐 Visit my personal website: [jean0t.io](https://jean0t.github.io/)
+- 🐦 Follow me on [X](https://x.com/JeanotInvictus)
 
 Let's collaborate and create something amazing together!
 

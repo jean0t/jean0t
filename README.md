@@ -71,4 +71,4 @@ Let's collaborate and create something amazing together!
 ---
 
 ## Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=donut&langs_count=6&size_weight=0&count_weight=1&hide=Powershell,mako)](https://github.com/jean0t)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=donut&langs_count=6&size_weight=0.1&count_weight=0.9&hide=Powershell,mako,cython)](https://github.com/jean0t)

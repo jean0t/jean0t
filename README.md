@@ -1,74 +1,37 @@
-<div align="center">
-  <img height="250" src="https://i.pinimg.com/564x/b5/57/ec/b557ecf25499ece87f96a55b6cda519c.jpg"  />
-</div>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtjNThuaDZ4MG0wcDgzN21heGF2YmdxdGF2YXE0aWU1MTRsa3RlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.webp" alt="Banner Image" />
+</p>
 
-###
+<h1 align="center">👋 Hello! I'm Joao Mauricio</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joao-maurici0-m/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://github.com/jean0t">
+    <img src="https://img.shields.io/github/followers/jean0t?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://www.youtube.com/@james_exatas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/joao-maurici0-m/">
+    <img src="https://img.shields.io/badge/-Joao%20Mauricio-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.twitch.tv/jean0t_code">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <a href="https://github.com/jean0t">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jean0t.visitor-badge" alt="Email" />
   </a>
-</div>
+</p>
 
-###
+## 💻 Tech Stack
+- **Languages**: ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-5391FE?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Frameworks & Tools**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Daily OS**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jean0t.jean0t&"  />
-</div>
+## 🌟 About Me
+I'm passionate about backend development and systems administration. I enjoy diving into new technologies and improving my skills in both programming and system management.
 
-###
+## 🚀 Current Projects
+- **[PasswordManager-Py](https://github.com/jean0t/PasswordManager-Py)**: An encrypted database and password manager in Python.
+- **[flask_mvc](https://github.com/jean0t/flask_mvc)**: A web application built with Flask using the MVC model.
+- **[archon](https://github.com/jean0t/archon)**: A minimalist low-level package manager compatible with all Linux distros using POSIX.
 
----
+## 📫 Contact
+- **Website**: [link](https://jean0t.github.io/)
 
-# Hi there! 👋
-
-I'm Jean0t, a backend developer with a passion for building efficient and scalable applications. Here's a closer look at what I bring to the table:
-
-## About Me
-
-- 🌟 **Skills:** Python, Go, PHP
-- 🌐 **Frameworks:** Node.js (JavaScript), Django, Flask (Python), Laravel (PHP)
-- 🐧 **Daily OS:** Linux (Ubuntu, Fedora)
-- 🛠️ **Tools:** Git, Docker, Shell scripting
-
-## What I Do
-
-I specialize in backend development, focusing on:
-
-- Designing APIs that drive seamless user experiences
-- Optimizing database performance for speed and reliability
-- Building scalable microservices architectures
-
-## My Toolbox
-
-### Languages & Frameworks:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Tools & Platforms:
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## Let's Connect!
-
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/joao-maurici0-m/)
-- 🌐 Visit my personal website: [jean0t.io](https://jean0t.github.io/)
-- 🐦 Follow me on [X](https://x.com/JeanotInvictus)
-
-Let's collaborate and create something amazing together!
-
----
-
-## Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=donut&langs_count=6&size_weight=0.1&count_weight=0.9&hide=Powershell,mako,cython,html,css)](https://github.com/jean0t)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlwaXJna2R4bG5wM3N2N2hjYWF5OHdmMWVsazk1cTZ4Mmo3N2Y0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.webp" alt="Footer Image" />
+</p>

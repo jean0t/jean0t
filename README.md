@@ -26,7 +26,7 @@ I'm passionate about backend development and systems administration. I enjoy div
 
 ## 🚀 Current Projects
 - **[PasswordManager-Py](https://github.com/jean0t/PasswordManager-Py)**: An encrypted database and password manager in Python.
-- **[parbuj programming language](https://github.com/jean0t/Parbuj-Programming-Language)**: A Interpreted Programming Language created from go.
+- **[parbuj programming language](https://github.com/jean0t/Parbuj-Programming-Language)**: An Interpreted Programming Language created from go.
 - **[archon](https://github.com/jean0t/archon)**: A minimalist low-level package manager compatible with all Linux distros using POSIX.
 
 ## 📫 Contact

@@ -23,7 +23,7 @@
   <strong>Scripting languages:</strong> Go, Shell (Bash, Zsh), Python<br>
   <strong>Interests:</strong> Automation, Productivity, Music, Linux<br>
   <strong>Learning:</strong> New scripting techniques, Best practices<br>
-  <strong>Favorite techs:</strong> Go, Shell, Python, PHP<br>
+  <strong>Favorite techs:</strong> Go, Shell, Python, C/C++<br>
   <strong>❤️ Linux enthusiast</strong>
 </p>
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtjNThuaDZ4MG0wcDgzN21heGF2YmdxdGF2YXE0aWU1MTRsa3RlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.webp" alt="Banner Image" />
+  <img src="http://66.media.tumblr.com/246ec00b00ab7d601882f9d34f93f735/tumblr_nwfxl5SHir1ujuk5ho1_540.gif" alt="Banner Image" />
 </p>
 
 <h1 align="center">👋 Hello! I'm Joao Mauricio</h1>

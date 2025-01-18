@@ -1,6 +1,8 @@
-<h1>Hi 👋, I'm Jean0t</h1>
-<p> I love what I am doing</p>
-<h2>🚀 Languages and Tools I Use</h2>
+# 👋 Hey there, I'm Joao Mauricio!
+
+I'm a **Backend Developer** passionate about building efficient and secure systems. I enjoy working with Python, Go, PHP, and diving deep into Linux and Bash. Currently, I'm exploring system administration and enhancing my cybersecurity skills through CTF challenges.
+
+## 🚀 Languages and Tools I Use
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -10,4 +12,15 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jean0t&show_icons=true&locale=en" alt="jean0t" /></p>
+
+
+## 📚 What I'm Learning
+
+- System Administration with **Linux** and **BSD**
+- **Fyne/Go**, **Textual/Python** and **prompt_toolkit/Python** for user friendliness
+- Cybersecurity and penetration testing (CTFs, TryHackMe)
+- Advancing my Programming skills with **Go** and **Python**
+
+---
+
+_“Keep learning, keep building.”_

@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Joao Mauricio!
 
-I'm a **Backend Developer** passionate about building efficient and secure systems. I enjoy working with Python, Go, PHP, and diving deep into Linux and Bash. Currently, I'm exploring system administration and enhancing my cybersecurity skills through CTF challenges.
+I'm passionate about building tools and apps. I enjoy working with Python, Go and diving deep into Linux and Shell Scripts. Currently, I'm exploring system administration and enhancing my cybersecurity skills through CTF challenges.
 
 ## 🚀 Languages and Tools I Use
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>

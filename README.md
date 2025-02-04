@@ -15,10 +15,10 @@ I'm a **backend developer** passionate about building **efficient** and **secure
 Lately, I'm exploring **System Administration** and **low-level development**, aiming to expand my skills beyond software into the world of infrastructure.  
 
 ### 🛠️ What I Work With  
-- **Languages:** Go, Python, PHP, C++  
+- **Languages:** Go, Python, Bash, C 
 - **Backend:** REST APIs, SQL (PostgreSQL, SQLite, MySQL)  
-- **Tools:** Docker, Git, Bash, SQLCipher  
-- **OS:** Linux (Sway, i3, BSD)  
+- **Tools:** Docker, Git, Qemu
+- **OS:** Linux (Fedora, Arch, Debian)  
 
 ### 🔧 Personal Projects  
 Here are some cool projects I'm working on:  

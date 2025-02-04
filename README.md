@@ -1,26 +1,34 @@
-# 👋 Hey there, I'm Joao Mauricio!
+<h1 align="center">👋 Hey there, I'm Joao Mauricio!</h1>
 
-I'm passionate about building tools and apps. I enjoy working with Python, Go and diving deep into Linux and Shell Scripts. Currently, I'm exploring system administration and enhancing my cybersecurity skills through CTF challenges.
-
-## 🚀 Languages and Tools I Use
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-
-
-## 📚 What I'm Learning
-
-- System Administration with **Linux** and **BSD**
-- **Fyne/Go**, **Textual/Python** and **prompt_toolkit/Python** for user friendliness
-- Cybersecurity and penetration testing (CTFs, TryHackMe)
-- Advancing my Programming skills with **Go** and **Python**
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB">
+  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624">
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25">
+</p>
 
 ---
 
-_“Keep learning, keep building.”_
+### 🚀 About Me  
+I'm a **backend developer** passionate about building **efficient** and **secure** applications. I love working with **Python**, **Go**, and diving deep into **Linux** and **Shell scripting**.  
+
+Lately, I'm exploring **System Administration** and **low-level development**, aiming to expand my skills beyond software into the world of infrastructure.  
+
+### 🛠️ What I Work With  
+- **Languages:** Go, Python, PHP, C++  
+- **Backend:** REST APIs, SQL (PostgreSQL, SQLite, MySQL)  
+- **Tools:** Docker, Git, Bash, SQLCipher  
+- **OS:** Linux (Sway, i3, BSD)  
+
+### 🔧 Personal Projects  
+Here are some cool projects I'm working on:  
+- 🛠️ [**mkbackup**](https://github.com/jean0t/mkbackup) – A shell script for creating backups  
+- 🔑 [**PassManager**](https://github.com/jean0t/PassManager) – A simple password manager in Python  
+- 🖥️ [**my-own-shell**](https://github.com/jean0t/my-own-shell) – A CLI shell in Go for Linux & Windows  
+- 📦 [**archon**](https://github.com/jean0t/archon) – A package manager made in Bash (POSIX compliant)  
+
+### 📫 Let's Connect  
+<p align="center">
+  <a href="https://github.com/jean0t"><img src="https://img.shields.io/badge/GitHub-Jean0t-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/YOUR_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+</p>

@@ -26,9 +26,3 @@ Here are some cool projects I'm working on:
 - 🔑 [**PassManager**](https://github.com/jean0t/PassManager) – A simple password manager in Python  
 - 🖥️ [**my-own-shell**](https://github.com/jean0t/my-own-shell) – A CLI shell in Go for Linux & Windows  
 - 📦 [**archon**](https://github.com/jean0t/archon) – A package manager made in Bash (POSIX compliant)  
-
-### 📫 Let's Connect  
-<p align="center">
-  <a href="https://github.com/jean0t"><img src="https://img.shields.io/badge/GitHub-Jean0t-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/YOUR_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>

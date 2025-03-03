@@ -23,5 +23,5 @@ Currently, I'm exploring **System Administration** and **low-level development**
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jean0t&show_icons=true&theme=github_dark" alt="Joao's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&langs_count=8&theme=github_dark&size_weight=0&count_weight=1&hide=mako,powershell,cython" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&langs_count=8&theme=github_dark&size_weight=0&count_weight=1&hide=mako,powershell,cython,css,c,assembly" alt="Top Languages" />
 </p>

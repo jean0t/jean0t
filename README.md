@@ -14,8 +14,8 @@
 
 <!-- About Me Section -->
 ### 🚀 About Me  
-I'm a **sysadmin** passionate about thinkering with tools and building my own applications. I love working with **Python**, **Go**, and diving deep into **Linux** and **Shell scripting**.  
-Currently, I'm exploring **System Administration** and **low-level development**, expanding my skills to cover both software and infrastructure.
+I'm passionate building my own applications and discovering the new. I love working with **Python**, **Common Lisp**, and diving deep into **Linux** and **Shell scripting**.  
+Currently, I'm exploring **System Administration** and **New Paradigms**, expanding my skills to cover both software and infrastructure.
 
 ---
 

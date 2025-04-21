@@ -4,7 +4,7 @@
 <!-- Tech Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Code-CommonLisp-informational?style=flat&logo=commonlisp&logoColor=white&color=800080" alt="Common Lisp">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=800080" alt="C">
   <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8" alt="Go">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624" alt="Linux">
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25" alt="Bash">
@@ -23,5 +23,5 @@ Currently, I'm exploring **System Administration** and **New Paradigms**, expand
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jean0t&rank_icon=github&show_icons=true&theme=github_dark" alt="Joao's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&langs_count=4&theme=github_dark&size_weight=0&count_weight=1&hide=mako,powershell,cython,css,c,assembly,javascript,html,C%2B%2B" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&langs_count=4&theme=github_dark&size_weight=0&count_weight=1&hide=mako,powershell,cython,css,assembly,javascript,html,C%2B%2B" alt="Top Languages" />
 </p>

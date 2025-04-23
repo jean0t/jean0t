@@ -14,7 +14,7 @@
 
 <!-- About Me Section -->
 ### 🚀 About Me  
-I'm passionate building my own applications and discovering the new. I love working with **Python**, **Common Lisp**, and diving deep into **Linux** and **Shell scripting**.  
+I'm passionate building my own applications and discovering the new. I love working with **Python**, **Crystal**, and diving deep into **Linux** and **Shell scripting**.  
 Currently, I'm exploring **System Administration** and **New Paradigms**, expanding my skills to cover both software and infrastructure.
 
 ---

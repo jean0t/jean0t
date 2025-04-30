@@ -10,11 +10,27 @@
 </p>
 
 <hr>
+<div align="center">
+<h2>🎯 Professional Summary</h2>
 
-<!-- About Me Section -->
-### 🚀 About Me  
-I'm passionate building my own applications and discovering the new. I love working with **Python**, **Go**, and diving deep into **Linux** and **Shell scripting**.  
-Currently, I'm exploring **System Administration** and **New Paradigms**, expanding my skills to cover both software and infrastructure.
+💻 **Programming Student (3 years)**  
+&nbsp;&nbsp;&nbsp;&nbsp; Proficient in: Python, Golang, Bash, Linux  
+&nbsp;&nbsp;&nbsp;&nbsp; Tools: Git, Docker
+
+📂 **GitHub Projects**  
+&nbsp;&nbsp;&nbsp;&nbsp; Emphasis on best practices  
+&nbsp;&nbsp;&nbsp;&nbsp; Implementation of design patterns  
+&nbsp;&nbsp;&nbsp;&nbsp; Clear documentation and robust testing
+
+🌐 **Languages**  
+&nbsp;&nbsp;&nbsp;&nbsp; Portuguese, English, French  
+&nbsp;&nbsp;&nbsp;&nbsp; Always eager to learn new languages
+
+🎮 **Personal Interests**  
+&nbsp;&nbsp;&nbsp;&nbsp; Reading manhwas  
+&nbsp;&nbsp;&nbsp;&nbsp; Playing video games
+
+</div>
 
 ---
 

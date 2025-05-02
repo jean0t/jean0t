@@ -13,7 +13,7 @@
 <div align="center">
 <h2>🎯 Professional Summary</h2>
 
-💻 **Programming Student (3 years)**  
+💻 **Developer**  
 &nbsp;&nbsp;&nbsp;&nbsp; Proficient in: Python, Golang, Bash, Linux  
 &nbsp;&nbsp;&nbsp;&nbsp; Tools: Git, Docker
 

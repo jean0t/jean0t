@@ -38,5 +38,5 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jean0t&rank_icon=github&show_icons=true&theme=github_dark" alt="Joao's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&langs_count=6&theme=github_dark&size_weight=0.4&count_weight=0.6&hide=mako,powershell,cython,makefile,vim%20script,batchfile,css,assembly,javascript,C%2B%2B" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&langs_count=6&theme=github_dark&size_weight=0.2&count_weight=0.8&hide=mako,powershell,cython,makefile,vim%20script,batchfile,css,assembly,javascript,C%2B%2B" alt="Top Languages" />
 </p>

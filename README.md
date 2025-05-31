@@ -9,28 +9,6 @@
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25" alt="Bash">
 </p>
 
-<hr>
-<div align="center">
-<h2>🎯 Professional Summary</h2>
-
-💻 **Developer**  
-&nbsp;&nbsp;&nbsp;&nbsp; Proficient in: Python, Golang, Bash, Linux  
-&nbsp;&nbsp;&nbsp;&nbsp; Tools: Git, Docker
-
-📂 **GitHub Projects**  
-&nbsp;&nbsp;&nbsp;&nbsp; Emphasis on best practices  
-&nbsp;&nbsp;&nbsp;&nbsp; Implementation of design patterns  
-&nbsp;&nbsp;&nbsp;&nbsp; Clear documentation and robust testing
-
-🌐 **Languages**  
-&nbsp;&nbsp;&nbsp;&nbsp; Portuguese, English, French  
-&nbsp;&nbsp;&nbsp;&nbsp; Always eager to learn new languages
-
-🎮 **Personal Interests**  
-&nbsp;&nbsp;&nbsp;&nbsp; Reading manhwas  
-&nbsp;&nbsp;&nbsp;&nbsp; Playing video games
-
-</div>
 
 ---
 

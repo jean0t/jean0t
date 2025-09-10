@@ -12,7 +12,7 @@ I'm a developer with a passion for building robust backend services and understa
 
 - 🔭 I’m currently working on building scalable microservices in **Go**.
 - 🌱 I’m currently learning about **Design Patterns** and diving deeper into **Common Lisp**.
-- 💬 Ask me about **Linux, Python, Go, Ruby,** and systems programming.
+- 💬 Ask me about **Linux, Python, Go, Ruby, Common Lisp** and systems programming.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-maurici0-m/)
 - ⚡ Fun fact: I believe the most elegant code is often the simplest.
 

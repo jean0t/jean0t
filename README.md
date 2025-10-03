@@ -47,5 +47,5 @@ These are the technologies I enjoy working with the most:
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jean0t&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9&bg_color=00000000" alt="jean0t's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=c9d1d9&bg_color=00000000&langs_count=7&size_weight=0.1&count_weight=0.9&hide=javascript" alt="jean0t's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=c9d1d9&bg_color=00000000&langs_count=8&size_weight=0.1&count_weight=0.9&hide=javascript" alt="jean0t's Top Languages" />
 </p>

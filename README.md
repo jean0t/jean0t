@@ -1,51 +1,71 @@
 <div align="center">
-  <h1 align="center">João M (jean0t)</h1>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jeanot;Backend+%26+Systems+Dev;Coding+the+Universe;Lisp+%26+Go+Enthusiast" alt="Typing SVG" />
+
   <p align="center">
-    Backend & Systems Developer | Exploring the depths of computing from silicon to software.
+    <b>Backend Developer</b> • <b>Linux Nerd</b> • <b>Systems Engineer</b>
   </p>
+
+  <p align="center">
+    <a href="https://jean0t.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/joao-maurici0-m" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:joaomouryf@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a developer with a passion for building robust backend services and understanding how computer systems work at a fundamental level. My curiosity drives me to explore everything from operating system internals to distributed systems architecture.
 
-- 🔭 I’m currently working on building scalable microservices in **Go**.
-- 🌱 I’m currently learning about **Design Patterns** and diving deeper into **Common Lisp**.
-- 💬 Ask me about **Linux, Python, Go, Ruby, Common Lisp** and systems programming.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joao-maurici0-m/)
-- ⚡ Fun fact: I believe the most elegant code is often the simplest.
+> *"I believe the most elegant code is often the simplest."*
 
----
+I am a developer with a deep passion for the fundamentals of computing. My work spans from high-level web frameworks to low-level system internals. I specialize in building **scalable microservices**, **security tools**, and exploring esoteric languages like **Common Lisp**.
 
-### 🛠️ My Tech Stack
-These are the technologies I enjoy working with the most:
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  </a>
-  <a href="https://lisp-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Common%20Lisp-333333?style=for-the-badge&logo=common-lisp&logoColor=white" alt="Common Lisp"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  </a>
-</p>
+- 🔭 I’m currently working on **High-performance microservices and system tools in Go**.
+- 🌱 I’m currently learning **Advanced Design Patterns & Distributed Systems**.
+- 🛡️ I have a strong interest in **Operational Systems** (System tools, Architecture and Details).
+- 💬 Ask me about: **Linux Internals, Python, Go, Common Lisp, and Bash**.
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jean0t&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=c9d1d9&bg_color=00000000" alt="jean0t's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean0t&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=c9d1d9&bg_color=00000000&langs_count=8&size_weight=0.1&count_weight=0.9&hide=javascript,powershell" alt="jean0t's Top Languages" />
-</p>
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Languages** | **Systems & Tools** | **Frameworks** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=go,python,ruby,clojure,c,bash" /> | <img src="https://skillicons.dev/icons?i=linux,debian,emacs,docker,git,vim,nginx,aws,gcp" /> | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,postgres,mysql,redis,rabbitmq,githubactions" /> |
+
+</div>
+
+---
+
+### 📂 Repository Collections
+
+#### 🛡️ Security & Privacy
+* **[Flash DNS](https://github.com/jean0t/flash-dns)** - Self Hosted DNS Server.
+* **[PassManager](https://github.com/jean0t/passmanager)** - Password Manager Tool, self hosted and encrypted.
+* **[mkbackup](https://github.com/jean0t/mkbackup)** - Robust shell script for system backups.
+
+#### ⚡ Systems & Backend
+* **[Project Init](https://github.com/jean0t/project_init)** - Production-ready Go Skeleton generator for projects.
+* **[wormhole](https://github.com/jean0t/wormhole)** - Web Framework in Common Lisp.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jean0t&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<div align="center">
+  <br>
+  <i>"Coding the universe"</i>
+</div>

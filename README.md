@@ -56,16 +56,3 @@ I am a developer with a deep passion for the fundamentals of computing. My work 
 #### ⚡ Systems & Backend
 * **[Project Init](https://github.com/jean0t/project_init)** - Production-ready Go Skeleton generator for projects.
 * **[wormhole](https://github.com/jean0t/wormhole)** - Web Framework in Common Lisp.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jean0t&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<div align="center">
-  <br>
-  <i>"Coding the universe"</i>
-</div>
